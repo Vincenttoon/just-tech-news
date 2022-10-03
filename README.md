@@ -20,3 +20,16 @@
 	"email": "sillyman@email.com",
 	"password": "fortbro698005"
 }
+
+[
+	{
+		"id": 2,
+		"post_url": "https://taskmaster.com/press",
+		"title": "Taskmaster goes live",
+	},
+	{
+		"id": 1,
+		"post_url": "https://runbuddy.com/press",
+		"title": "Runbuddy reaches 1 million subscribers",
+	}
+]
